@@ -52,7 +52,7 @@ RESTful API для системы бронирования билетов на �
 
 #### 1. Клонировать репозиторий
 ``` bash
-git clone https://github.com/Fl1ckerxD/TicketBookingApi.git
+git clone https://github.com/Meltinfly/TicketBookingApi.git
 cd TicketBookingApi
 ```
 
@@ -96,7 +96,7 @@ dotnet run
 
 #### 1. Клонировать репозиторий
 ``` bash
-git clone https://github.com/Fl1ckerxD/TicketBookingApi.git
+git clone https://github.com/Meltinfly/TicketBookingApi.git
 cd TicketBookingApi
 ```
 
